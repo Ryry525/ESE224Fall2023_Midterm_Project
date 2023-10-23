@@ -127,7 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ESE224Fall2023_Midterm_Project.cpp" />
+    <ClCompile Include="class.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="robot.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class.h" />
+    <ClInclude Include="robot.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Robots.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
