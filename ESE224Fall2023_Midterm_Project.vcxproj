@@ -127,12 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="class.cpp" />
+    <ClCompile Include="room.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="robot.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="class.h" />
+    <ClInclude Include="room.h" />
     <ClInclude Include="robot.h" />
   </ItemGroup>
   <ItemGroup>

@@ -14,12 +14,10 @@ private:
 	int robotID;
 	int robotData[5];
 	double robotAverage;
-	string file_name;
-	fstream myFile;
 
-	
 public:
 	Robot();
+	Robot(const string& rName, int rID, int rData[5]);
 	//GETTER METHODS
 	string getName() const;
 	int getID() const;

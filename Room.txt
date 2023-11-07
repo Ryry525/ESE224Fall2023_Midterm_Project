@@ -1,0 +1,90 @@
+name: Brewer
+ID: 11920
+data[0]: 43
+data[1]: 21
+data[2]: 99
+data[3]: 12
+data[4]: 31
+average: 41.2
+
+name: Wizard
+ID: 12312
+data[0]: 1
+data[1]: 2
+data[2]: 3
+data[3]: 4
+data[4]: 5
+average: 3
+
+name: Blanket
+ID: 12721
+data[0]: 22
+data[1]: 13
+data[2]: 1
+data[3]: 10
+data[4]: 41
+average: 17.4
+
+name: Lizard
+ID: 22193
+data[0]: 3
+data[1]: 1
+data[2]: 9
+data[3]: 1
+data[4]: 110
+average: 24.8
+
+name: Stapler
+ID: 23193
+data[0]: 13
+data[1]: 13
+data[2]: 13
+data[3]: 13
+data[4]: 13
+average: 13
+
+name: Door
+ID: 25443
+data[0]: 9
+data[1]: 8
+data[2]: 7
+data[3]: 8
+data[4]: 11
+average: 8.6
+
+name: Bear
+ID: 33021
+data[0]: 2
+data[1]: 93
+data[2]: 21
+data[3]: 31
+data[4]: 11
+average: 31.6
+
+name: Market
+ID: 41911
+data[0]: 8
+data[1]: 112
+data[2]: 77
+data[3]: 31
+data[4]: 24
+average: 50.4
+
+name: Rock
+ID: 99321
+data[0]: 88
+data[1]: 338
+data[2]: 29
+data[3]: 13
+data[4]: 100
+average: 113.6
+
+name: Llama
+ID: 99897
+data[0]: 5
+data[1]: 5
+data[2]: 5
+data[3]: 5
+data[4]: 5
+average: 5
+
